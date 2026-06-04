@@ -15,7 +15,8 @@ Data jsou ukládána do MySQL databáze, odkud jsou dále zpracovávána a zobra
 
 ## Ukázka
 
-<img width="1322" height="930" alt="Snímek obrazovky 2026-06-03 v 23 18 28" src="https://github.com/user-attachments/assets/d88892b9-27f8-427f-b81d-baa47789de2c" />
+<img width="1915" height="899" alt="image" src="https://github.com/user-attachments/assets/33aa97b7-f4bd-4534-a636-85856251f1a2" />
+
 
 
 
